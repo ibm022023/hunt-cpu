@@ -1,0 +1,34 @@
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 110000000000000000 -e 11ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 120000000000000000 -e 12ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 130000000000000000 -e 13ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 140000000000000000 -e 14ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 150000000000000000 -e 15ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 160000000000000000 -e 16ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+*!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 170000000000000000 -e 17ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 180000000000000000 -e 18ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 190000000000000000 -e 19ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+*!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 1a0000000000000000 -e 1affffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 1b0000000000000000 -e 1bffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 1e0000000000000000 -e 1effffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 1f0000000000000000 -e 1fffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 100000000000000000 -e 1fffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 110000000000000000 -e 11ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 120000000000000000 -e 12ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 130000000000000000 -e 13ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 140000000000000000 -e 14ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 150000000000000000 -e 15ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 160000000000000000 -e 16ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+*!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 170000000000000000 -e 17ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 180000000000000000 -e 18ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 190000000000000000 -e 19ffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+*!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 1a0000000000000000 -e 1affffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 1b0000000000000000 -e 1bffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 1e0000000000000000 -e 1effffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 1f0000000000000000 -e 1fffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd /content/drive/MyDrive/KeyHunt-5/KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 100000000000000000 -e 1fffffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+
+https://notebook.community/leiverandres/HPC_assignments/nvidia%20Qwiklabs/Introduction%20to%20Accelerated%20Computing/Acelerated_computing ---EDIT and run----IBM keyhunt cpu-- qiskit kangaroo cpu----colab kangaro + keyunt---dwave bsgs icon peta tera solo multi-----https://www.graphcore.ai/ipu-jupyter-notebooks-------------https://www.graphcore.ai/paperspace  + console.paperspace-----
+IBM-CPU !cd keyhunt && ./keyhunt -t 8 -m bsgs -l compress -f tests/130.txt -r 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -S -B random -R -t 32
+
+!cd keyhunt && ./keyhunt -t 8 -m rmd160 -l both -f unsolvedpuzzles.rmd -r 22000000000000000:1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -S -B random -R
+01234567 89abcdef https://lab.quantum-computing.ibm.com/user/64b82cd87d03934566f911b5/files/keyhuntsave.zip ?_xsrf=2%7Cd40da85f%7Cb32ac43e69b26a2be3ec9175d1dbf178%7C1689873203

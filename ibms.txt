@@ -1,0 +1,35 @@
+!pip3 install bit && pip3 install ice && pip3 install argparse && pip3 install base58 && pip3 install bitcoin && pip3 install pub /// !pip3 install cryptohraphy && pip3 install bitcoinlib && pip3 install ecdsa / !pip3 install Macros && pip3 install PySimpleGUI && pip3 install requests && pip3 install hdwallet && pip3 install bip_utils && pip3 install multiprocessing // pip3 install fastecdsa  //    !wormhole send plutushybrid.zip !wormhole receive 6-designing-tempest     //.
+console.paperspace-unlock-jupyter  // https://github.com/ibm022023/bruteforce-wallet-balance // https://github.com/ibm022023/btc-word //  https://github.com/AntoshVik/BTCBreaker // https://github.com/HucksApp/sukuna/  // https://github.com/ibm022023/btc-hacker // https://github.com/alwaysminingbtc/plutushybrid/ sudo apt-get install libgmp3-dev !pip3 install magic-wormhole && pip3 install mnemonic && pip3 install bip32utils && !cd plutushybrid && cd database && wget https://github.com/secretnumber/utxodump/raw/master/JAN-25-2020/00.pickle
+./rotor -t 100 -m bsgs -l compress -f 130.txt -r 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -S -B random -R
+python3 bsgs_dll_search.py -pfile 130.txt -b bpfile.bin -bl bloomfile.bin -keyspace 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -rand
+
+dwave-1 - azure-dragonfly-yjn4l4in.ws.ide.dwavesys.io/ python3 bsgs_create_bpfile_bloomfile.py 2000000000 bpfile.bin bloomfile.bin 32
+python3 bsgs_dll_search.py -b bpfile.bin -bl bloomfile.bin -p 03afdda497369e219a2c1c369954a930e4d3740968e5e4352475bcffce3140dae5 -keyspace 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -rand
+
+dwave-2 - coffee-dragon-glvhzcvp.ws.ide.dwavesys.io
+./keyhunt -t 32 -m bsgs -l compress -f 130.txt -r 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -S -B random -R
+/bsgs -t 250 p145.txt
+qiskit ./keyhunt -t 250 -m bsgs -l compress -f 130.txt -r 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -S -B random -R
+./keyhunt -t 260 -m rmd160 -l both -f unsolvedpuzzles.rmd -r 22a00000000000000:1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -S -B random -R
+./keyhunt -t 260 -m address -l both -f unsolvedpuzzles.txt -r 22a00000000000000:1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -S -B random -R
+!cd kangaroo-CPU && python3 kangaroo.py -p 03afdda497369e219a2c1c369954a930e4d3740968e5e4352475bcffce3140dae5 -keyspace 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -rand -ncore 70-72
+./keyhunt -t 64 -m bsgs -l compress -f 130.txt -r 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -S -B random -R
+https://deepnote.com/workspace/first-deepnote-workspace-0f45-d29d8690-712f-4306-a2ce-124567847af2/project/HPCassignments-a367d23b-8b88-4ef9-a2a1-ad76c80b9bdb
+deepnotes python3 bsgs_create_bpfile_bloomfile.py 700000000-600000000 bpfile.bin bloomfile.bin 16
+deepnotes https://notebook.community/leiverandres/HPC_assignments/nvidia%20Qwiklabs/Introduction%20to%20Accelerated%20Computing/Acelerated_computing ---EDIT and run----IBM keyhunt cpu-- qiskit kangaroo cpu----colab kangaro + keyunt---dwave bsgs icon peta tera solo multi-----https://www.graphcore.ai/ipu-jupyter-notebooks-------------https://www.graphcore.ai/paperspace  + console.paperspace ----
+!cd /work/CUDA/3aploads/bsgs/v6_dll_bsgs && python3 bsgs_dll_search.py -pfile 130.txt -b bpfile.bin -bl bloomfile.bin -keyspace 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -rand
+!cd /work/CUDA/3aploads/btc-collider-main && python3 Keyspace.py
+google colab - !cd drive/MyDrive/bsgs/v6_dll_bsgs && python3 bsgs_create_bpfile_bloomfile.py 2000000000 bpfile.bin bloomfile.bin 4
+!cd drive/MyDrive/bsgs/v6_dll_bsgs && python3 bsgs_dll_search.py -b bpfile.bin -bl bloomfile.bin -p 03afdda497369e219a2c1c369954a930e4d3740968e5e4352475bcffce3140dae5 -keyspace 1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff -rand
+!cd drive/MyDrive/bsgs/v6_dll_bsgs && python3 bsgs_dll_search.py -pfile pubkeyz.txt -b bpfile.bin -bl bloomfile.bin -keyspace 400000000000000000:1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -rand
+key-hunt-cuda colab !cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 22a00000000000000 -e 1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -b -f hash160_out_sorted.bin -o Found.txt
+key-hunt-cuda colab !cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 -s 22a00000000000000 -e 1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -b -f hash160_out_sorted.bin -o Found.txt
+./KeyHunt -g --gpui 0 --gpux 256,256 -s 11a000000000000000 -e 1effffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+./KeyHunt -g --gpui 0 -s 11a000000000000000 -e 1effffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+
+!git clone https://github.com/ZenulAbidin/Kangaroo-256
+chmod +x Makefile ./kangaroo-256 -t 260 -o Found.txt -ws -w save.work -wi 59 in.txt
+make gpu=1 CCAP=75 all
+!cd /content/drive/MyDrive/Kangaroo-256 && chmod +x ./kangaroo-256
+./kangaroo-256 -t 4 -gpu -gpuId 0 -o Found.txt -ws -w save.work.1 -wi 59 in.txt
+./kangaroo-256 -t 4 -gpu -gpuId 0 -i save.work.1 -o Found.txt -ws -w save.work.1 -wi 59

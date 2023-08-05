@@ -1,0 +1,36 @@
+git clone https://gitlab.com/dragonmhmh8/GPU-l
+chmod +x ./kangaroo
+!pip3 install bit
+!pip3 install argparse
+!pip3 install ice
+chmod +x Makefile
+make gpu=1 CCAP=75 all
+chmod +x *
+./kangaroo -l
+./kangaroo -gpu -gpuId 0 -o Found.txt -ws -w save.work.1 -wi 3000 ins.txt 
+./kangaroo -t 4 -gpu -gpuId 0 -o Found.txt -ws -w save.work.1 -wi 59 in.txt
+!cd /content/drive/MyDrive/GPU-l/GPU && ./kangaroo -t 4 -gpu -gpuId 0 -i save.work.1 -o Found.txt -ws -w save.work.1 -wi 59
+8000000000000022ca4c44936d40000 TRY THIS LATER 
+ffffffffffffffffffffffffffffff ./kangaroo -t 4 -gpu -gpuId 0 -g 256,256 -i save.work.1 -o Found.txt -ws -w save.work.1 -wi 59
+alisandro2023alisandro-ibm012023ibm-ibm022023 @ outlook_gmail
+apt update && apt upgrade
+apt install git -y
+apt install build-essential -y
+apt install libssl-dev -y
+apt install libgmp-dev -y
+git clone https://github.com/dragonhlf8/Keyhunt-5
+apt install bitcoin
+pip3 install base58
+python3 -m pip install base58
+than chmod +x ./Keyhunt or ./KeyHunt
+than mybe nano Makefile cuda-only mybe not
+than chmod +x Makefile
+than mybe make gpu=1 CCAP=75 all mybe not
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 22000000000000000 -e 1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -b -f hash160_out_sorted.bin -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 22000000000000000 -e 1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -u -f hash160_out_sorted.bin -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 22000000000000000 -e 1f765a8aa43b31089f667d87fbfc8e83ba3739cc8a13540777fa4bd19a06c181 -f hash160_out_sorted.bin -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 140000000000000000 -e 1effffffffffffffff -a 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG -o Found.txt
+!cd drive && cd MyDrive && cd KeyHunt-5 && cd KeyHunt-Cuda-2 && ./KeyHunt -g --gpui 0 --gpux 256,256 -s 1000000000000000000000000000000000000 -e 1ffffffffffffffffffffffffffffffffffff -a 19GpszRNUej5yYqxXoLnbZWKew3KdVLkXg -o Found.txt
+pip install bitcoin
+git clone https://github.com/7jdope8/Bitcoin-private-key-generator
+https://azure-dragonfly-yjn4l4in.ws.ide.dwavesys.io/?workspace=vscode-remote%3A%2F%2Fazure-dragonfly-yjn4l4in.ws.ide.dwavesys.io%2Fworkspace%2Fcryptarithmetic%2Fworkspace.code-workspace

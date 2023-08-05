@@ -1,0 +1,11 @@
+install bitcoin 
+
+# bytes32
+def privtopub(priv): return pt.privtopub(priv)
+
+pub = privtopub(wif)
+pub = privtopub(priv) # or compress(privtopub(priv) ) worked dont do -h at first at all or mybe cause of installed bitcoin
+pub = privtopub(wif) # or compress(privtopub(wif) )
+
+
+
